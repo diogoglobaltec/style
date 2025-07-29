@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 iaçsdfkjasdfh
 avaslkdf
 iaçsdfkjasdfh
@@ -57,3 +58,12 @@ avaslkdf
 iaçslkdf
 
 vamos adicionar merda na branch merda....
+=======
+
+saindo da branch merda para branch main...
+vamos escrever e fazer um merge na branch main.
+
+vamos adicionar merda na branch merda.
+
+
+>>>>>>> merda
